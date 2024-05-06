@@ -63,9 +63,6 @@ h1{
     width: 100%;
     height: 400px;
     background-color: #d4c2b0;
-    background-image: url(images/libraryjpg);
-    background-size: cover;
-    background-position: center;
 }
 .headline{
     color: black;
@@ -74,12 +71,14 @@ h1{
 hr{
     color: #6e5342;
     background-color: #d4c2b0;
+    padding: 0;
+    margin: 0;
 }
 .game-title{
     color: white;
     text-align: center;
     padding-right: 0px;
-    margin-top: 7vh;
+    margin-top: 300px;
 }
 .game-description{
     color: white;
